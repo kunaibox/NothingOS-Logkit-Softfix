@@ -12,13 +12,11 @@ The tool is designed to be completely portable. On the first run, it checks for 
 
 ---
 
-## ~~From Compiled Exe~~
-### ~~Run fix.exe~~
-1. ~~Download the latest release.~~
-2. ~~Run `fix.exe` and follow the on-screen instructions.~~
-
-   
-Have not yet compiled!
+## From Compiled Exe
+1. Download the [Latest Release](https://github.com/kunaibox/NothingOS-Logkit-Softfix/releases/latest) (`v1.0.0`).
+2. Run the exe and follow the on-screen instructions.
+> [!NOTE]
+> This tool is portable. To completely uninstall it, simply delete the `.exe` and the `platform-tools` folder that it creates in your directory.
 
 ## From source
 ### Prerequisites
@@ -28,7 +26,8 @@ Have not yet compiled!
 ### Installation and Execution
 1. Download the repository as a ZIP and extract it to a folder.
 2. python main.py
-
+> [!NOTE]
+> This tool is portable. To completely uninstall it, simply delete the folder.
 ---
 
 ## How to Enable USB Debugging
