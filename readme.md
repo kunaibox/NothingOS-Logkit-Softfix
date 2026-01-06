@@ -11,10 +11,14 @@ This is a portable Python-based utility designed to manage the Logkit package on
 The tool is designed to be completely portable. On the first run, it checks for the presence of ADB (Android Debug Bridge). If it isn't found, the tool downloads the official Google Platform Tools directly into the project folder. This ensures your computer's system files remain clean and untouched.
 
 ---
-## From Compiled Exe
-### Run fix.exe
-1. Download the latest release.
-2. Run `fix.exe` and follow the on-screen instructions.
+
+## ~~From Compiled Exe~~
+### ~~Run fix.exe~~
+1. ~~Download the latest release.~~
+2. ~~Run `fix.exe` and follow the on-screen instructions.~~
+
+   
+Have not yet compiled!
 
 ## From source
 ### Prerequisites
