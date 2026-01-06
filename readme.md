@@ -35,7 +35,7 @@ The tool is designed to be completely portable. On the first run, it checks for 
 For the tool to communicate with your phone, you must enable Developer Options:
 
 1. Open **Settings** on your phone.
-2. Go to **About phone** > **Software info**.
+2. Go to **About phone** > **NOTHING OS(Wide image)**.
 3. Tap **Build number** exactly 7 times.
 4. Go back to **Settings** > **System** > **Developer options**.
 5. Find **USB Debugging** and turn it **ON**.
